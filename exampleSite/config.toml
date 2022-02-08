@@ -40,7 +40,7 @@ googleAnalitycsID = "Your ID"
 home = "Home"
 location = "Cerekiew"
 #logo = "images/logo.png"
-logo = "images/zielonacerekiewlogocropped.svg"
+logo = "images/Cerekiew.png"
 
 [params.cookies]
 enable = true
