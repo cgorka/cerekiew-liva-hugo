@@ -1,0 +1,16 @@
+---
+label: O nas Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
