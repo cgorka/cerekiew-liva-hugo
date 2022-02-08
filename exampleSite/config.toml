@@ -32,7 +32,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "ceXar.it"
+author = "cgorka"
 copyright = "| copyright &copy; 2022 by Zielona Cerekiew Website by [Rx48.eu](https://rx48.eu) [ceXar.it](https://cexar.it)|"
 description = "ceXar.it"
 email = "cgorka@gmail.com"
