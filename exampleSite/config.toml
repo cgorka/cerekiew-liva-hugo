@@ -90,7 +90,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2022 by Zielona Cerekiew Website by [Rx48.eu](https://rx48.eu) [ceXar.it](https://cexar.it)|"
 
 # Preloader
 [params.preloader]
