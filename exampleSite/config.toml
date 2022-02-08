@@ -71,16 +71,5 @@ URL = "plugins/search/search.js"
 enable = true
 preloader = ""
 [params.search]
-enable = false
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
+enable = true
+
