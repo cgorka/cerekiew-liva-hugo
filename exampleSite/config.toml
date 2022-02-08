@@ -81,14 +81,14 @@ weight = 3
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "ceXar.it"
+author = "ceXar.it"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+#mobile = "0124857985320"
+email = "cgorka@gmail.com"
+location = "Cerekiew"
 # copyright
 copyright = "| copyright &copy; 2022 by Zielona Cerekiew Website by [Rx48.eu](https://rx48.eu) [ceXar.it](https://cexar.it)|"
 
