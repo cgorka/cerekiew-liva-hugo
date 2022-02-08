@@ -39,7 +39,9 @@ email = "cgorka@gmail.com"
 googleAnalitycsID = "Your ID"
 home = "Home"
 location = "Cerekiew"
-logo = "images/logo.png"
+#logo = "images/logo.png"
+logo = "images/zielonacerekiewlogocropped.svg"
+
 [params.cookies]
 enable = true
 expire_days = 2
