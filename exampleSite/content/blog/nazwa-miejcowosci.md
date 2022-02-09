@@ -2,7 +2,7 @@
 categories = []
 date = 2019-10-29T04:07:47Z
 description = "Nazwa Miejcowości"
-image = "images/featured-post/post-1.jpg"
+image = ""
 tags = []
 title = "Nazwa Miejcowości"
 type = ""
