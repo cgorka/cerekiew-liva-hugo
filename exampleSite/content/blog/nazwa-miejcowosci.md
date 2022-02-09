@@ -17,6 +17,8 @@ Radomski burmistrz za uwolnienie córki wypłacił Daniłowiczowi sporą sumę d
 
 Warto może jeszcze pamiętać, że w latach 1899 – 1901 wikarym w Cerekwi był późniejszy kanonik kapituły sandomierskiej, patron radomskich turystów ksiądz Jan Wiśniewski.
 
+![](/uploads/przechwytywanie2.jpeg)
+
 zrodło
 
 [http://www.radom.pl/data/other/okolice_radomia_-_piesze_wycieczki_turys.pdf](http://www.radom.pl/data/other/okolice_radomia_-_piesze_wycieczki_turys.pdf "http://www.radom.pl/data/other/okolice_radomia_-_piesze_wycieczki_turys.pdf")
