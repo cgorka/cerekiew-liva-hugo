@@ -1,153 +1,27 @@
 +++
-categories = ["Android And Gaming"]
+categories = []
 date = 2019-10-29T04:07:47Z
-description = "this is meta description"
-draft = true
+description = "Nazwa Miejcowości"
 image = "images/featured-post/post-1.jpg"
-tags = ["Photos", "Game", "React", "Python", "New"]
+tags = []
 title = "Nazwa Miejcowości"
 type = "featured"
 
 +++
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+![](/uploads/przechwytywanie2.jpeg)
 
-<hr>
+**Cerekiew**
 
-##### Emphasis
+Tę ciekawą nazwę ma w Polsce tylko dwie miejscowości. Pochodzi ona od staropolskiego słowa cerekiew, które oznaczało świątynię, kościół. Kościół w podradomskiej Cerekwi p.w. Wniębowzięcia NPMarii ma starożytną historię.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Pierwotna budowla istniała już w 1326 roku. Około 1470 roku wzmiankowano kościół drewniany. Około 1529 roku wojski radomski Mikołaj Dzik fundował kościół murowany, który rozebrano w 1928 roku. Rok później zbudowano kościół obecny. Miejscowa legenda powstanie kościoła wiąże z osobą króla Władysława Jagiełły. On to za zasługi w walkach z Krzyżakami nagrodził grupę Litwinów kawałkiem ziemi koło Radomia. Po zbudowaniu osady Litwini rozpoczęli starania u władz miasta Radomia o opłacenie budowy cerkwi.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Rozmowy z władzami miejskimi prowadził w imieniu Litwinów Iwo Daniłowicz. Rajcy miejscy z burmistrzem na czele ani myśleli płacić za budowę świątyni. Legenda mówi, że ta odmowa związana była z niechęcią rajców do prawosławia. Tyle tylko, że rdzenni Litwini od początku byli katolikami. W trakcie nieudanych starań o budowę kościoła banda podradomskich zbójów porwała córkę burmistrza i zażądała za nią okupu. Iwo Daniłowicz, wracając z Radomia do domu, także wpadł w ręce zbójów. Ci uznali go za wysłannika burmistrza. Iwo został przyjęty przez zbójów i poczęstowany resztkami po zbójeckim posiłku. Gdy po zjedzeniu czterech jajek okazało się, że Iwo nie ma okupu, rozeźleni zbójnicy zwiększyli żądania okupu. Burmistrz poza mieszkiem złota miał zapłacić za zjedzone przez Iwo jajka, za cztery kury, które z tych jajek by się wykluły, za kolejne jajka zniesione przez te kury i tak dalej i tak dalej. Zbóje mieli jednak problem z obliczeniem dodatkowej należności. Daniłowicz zgodził się ją obliczyć, ale za cenę uwolnienia burmistrzanki. Iwo przechytrzył zbójów, wykazał im, że z gotowanych jaj nie można mieć kurczaków i takim fortelem odebrał im burmistrzankę.
 
-Combined emphasis with **asterisks and _underscores_**.
+Radomski burmistrz za uwolnienie córki wypłacił Daniłowiczowi sporą sumę dukatów. Litwini mogli wreszcie zbudować swoją cerkiew, a radomianie na pamiątkę tych wydarzeń osadę nazwali Cerekiew. Ta starożytna nazwa udokumentowana od 1317 roku przetrwała aż do dziś, choć zapewne z legendą ma niewiele wspólnego.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Warto może jeszcze pamiętać, że w latach 1899 – 1901 wikarym w Cerekwi był późniejszy kanonik kapituły sandomierskiej, patron radomskich turystów ksiądz Jan Wiśniewski.
 
-<hr>
+zrodło
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+[http://www.radom.pl/data/other/okolice_radomia_-_piesze_wycieczki_turys.pdf](http://www.radom.pl/data/other/okolice_radomia_-_piesze_wycieczki_turys.pdf "http://www.radom.pl/data/other/okolice_radomia_-_piesze_wycieczki_turys.pdf")
