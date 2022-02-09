@@ -5,7 +5,7 @@ description = "Nazwa Miejcowości"
 image = "images/featured-post/post-1.jpg"
 tags = []
 title = "Nazwa Miejcowości"
-type = "featured"
+type = ""
 
 +++
 ![](/uploads/przechwytywanie2.jpeg)
