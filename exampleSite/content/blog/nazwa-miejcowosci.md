@@ -1,7 +1,7 @@
 +++
 date = ""
 description = ""
-image = ""
+image = "przechwytywanie2.jpeg"
 title = "Nazwa Miejcowości"
 
 +++
