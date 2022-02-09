@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2022-02-08T23:00:00Z
 description = ""
 image = "przechwytywanie2.jpeg"
 title = "Nazwa Miejcowości"
